@@ -13,6 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Forest infected.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "76ebf955d006c15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8b9b49e745a346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Cyclopean Gem.md",
                 "mode": "source",
                 "source": false
@@ -85,14 +103,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyclopean Gem.md",
+                "file": "Forest infected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,9 +120,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyclopean Gem.md",
+                "file": "Forest infected.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,11 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyclopean Gem.md"
+                "file": "Forest infected.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,14 +166,15 @@
   },
   "active": "552f1444707b08ed",
   "lastOpenFiles": [
-    "README.md",
-    "Buggy.md",
     "Cyclopean Gem.md",
+    "Forest infected.md",
+    "golem.md",
+    "Untitled",
+    "Buggy.md",
+    "ritual.md",
+    "README.md",
     "Stop the dictator.md",
     "ranger stuff.md",
-    "Forest.md",
-    "ritual.md",
-    "golem.md",
     "Backstory for wookin.md",
     "wookin.md",
     "Untitled.canvas"

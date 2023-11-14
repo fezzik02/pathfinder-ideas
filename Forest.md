@@ -1,1 +1,0 @@
-What if some sort of new magical infection is trying to take over the forest?
