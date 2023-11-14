@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "acce45bc8063744e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0172fcfedb2df244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552f1444707b08ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyclopean Gem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8281e2f10afbb7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8227c3fa6483e6ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d524dd160a16a31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3b1ec7e5e4f716b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b19f4878ff095076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6ec73af20217170",
+    "type": "split",
+    "children": [
+      {
+        "id": "10da323cde2ef28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a6504ae0e64b08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyclopean Gem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "321c1262f6ecca5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyclopean Gem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dc9afe4d58f0c1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55291243e9f6b9e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyclopean Gem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "552f1444707b08ed",
+  "lastOpenFiles": [
+    "README.md",
+    "Buggy.md",
+    "Cyclopean Gem.md",
+    "Stop the dictator.md",
+    "ranger stuff.md",
+    "Forest.md",
+    "ritual.md",
+    "golem.md",
+    "Backstory for wookin.md",
+    "wookin.md",
+    "Untitled.canvas"
+  ]
+}

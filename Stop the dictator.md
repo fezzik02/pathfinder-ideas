@@ -1,0 +1,1 @@
+The local Baron is oppressing the people of a particular town. Confront the Baron and convince them to stop.
